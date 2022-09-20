@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20190925</CreaDate><CreaTime>11474500</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files (x86)\arcgis\desktop10.4\ArcToolbox\Toolboxes\Data Management Tools.tbx\CalculateField" Date="20190925" Time="103533">CalculateField DFO_MPA_2019_08_01_Final KM2_Test round( [KM2] , 2) VB #</Process></lineage></DataProperties></Esri></metadata>
